@@ -1,6 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFPIgOeh6oMuw/profile-displaybackgroundimage-shrink_350_1400/0/1669716279670?e=1709164800&v=beta&t=G9MPWhzFt7L5GL0urKS1RPLLvEg7yui5pjxr50obePM)](https://www.linkedin.com/in/krupananda/)
 <h1 align="center">Hi 👋, I'm Krupa Nanda</h1>
 <h3 align="center">I'm a QA Engineer boasting over 5 years of focused experience in testing WordPress-based projects.</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5taoPRGoF0XSb1pddA/giphy.gif?cid=ecf05e471ahvdx3mbeetovjzpyq8apjdim59os6oyzjkoe6u&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjnanda&label=Profile%20views&color=0e75b6&style=flat" alt="kjnanda" /> </p>
 
