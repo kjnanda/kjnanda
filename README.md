@@ -11,7 +11,7 @@
 
 📫 How to reach me **krupananda.it@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
