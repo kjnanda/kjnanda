@@ -11,8 +11,6 @@
 
 📫 How to reach me **krupananda.it@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/krupajnanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krupajnanda" height="30" width="40" /></a>
