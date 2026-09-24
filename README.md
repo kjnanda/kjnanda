@@ -37,7 +37,7 @@ My contribution extends beyond code and testing. I've supported Contributor Days
 - 🧪 **Test Lead** — WordPress 6.8
 - ♿ **Accessibility Team Representative**
 - 📚 **WordPress Credits Program Mentor**
-- 🌏 **WordCamp Asia Organizer**
+- 🌏 **WordCamp Asia Organizer 2027(Program Team)/2026(Contributor Day Team)**
 - 💜 **WordPress Accessibility Day Organizer**
 - 🎤 Speaker, panelist, volunteer, and Contributor Day contributor across WordPress events
 
